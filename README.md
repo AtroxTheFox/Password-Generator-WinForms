@@ -1,5 +1,5 @@
 # Password Generator made in C# & WinForms
-A simple password generator, that generates passwords based on criteria given by the user. You can copy your passwword to clipboard.
+A simple password generator, that generates passwords based on criteria given by the user. You can copy your passwword to a clipboard.
 
 ## Options
 - Lowecase
